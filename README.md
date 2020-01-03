@@ -12,3 +12,6 @@ eg: className like java.lang.Object
 # 2020.01.03
 Now update project that you can know how does JVM where to find classFile, test for printing classData in terminal.
 Next update for class analysis.
+
+# 2020.01.03 2nd
+Class analysis support 
